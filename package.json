@@ -1,0 +1,37 @@
+{
+  "name": "browser-debugger-extension-pack",
+  "displayName": "Browser Debugger Extension Pack",
+  "description": "Popular extensions for browser debug",
+  "version": "1.0.0",
+  "publisher": "magnobiet",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "msjsdiag.debugger-for-chrome",
+    "msjsdiag.debugger-for-edge",
+    "firefox-devtools.vscode-firefox-debug"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#24292e",
+    "theme": "dark"
+  },
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vscode-extension-packs/browser-debugger-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vscode-extension-packs/browser-debugger-extension-pack/issues"
+  },
+  "homepage": "https://github.com/vscode-extension-packs/browser-debugger-extension-pack#readme"
+}
