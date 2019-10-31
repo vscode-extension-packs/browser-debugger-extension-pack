@@ -10,8 +10,8 @@ This is an extension pack for Visual Studio Code with my favorite extensions.
 ## Extensions included
 
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-- [Debugger for Firefox]([link](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug))
-- [Debugger for Edge]([link](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge))
+- [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
+- [Debugger for Edge](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge)
 
 ## Installation
 
