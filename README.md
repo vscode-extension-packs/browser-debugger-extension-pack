@@ -1,7 +1,7 @@
 # Browser Debugger Extension Pack for Visual Studio Code
 
 [![Browser%20Debugger%20Extension%20Pack](https://img.shields.io/vscode-marketplace/v/magnobiet.browser-debugger-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.browser-debugger-extension-pack)
-[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://magno.mit-license.org/)
+[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://license.magnobiet.com/mit/2019)
 [![Downloads](https://img.shields.io/vscode-marketplace/d/magnobiet.browser-debugger-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.browser-debugger-extension-pack)
 [![Rating](https://img.shields.io/vscode-marketplace/r/magnobiet.browser-debugger-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.browser-debugger-extension-pack)
 
@@ -9,7 +9,7 @@ This is an extension pack for Visual Studio Code with my favorite extensions.
 
 ## Extensions included
 
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+- [JavaScript Debugger](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug)
 - [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 - [Debugger for Edge](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge)
 
@@ -33,4 +33,4 @@ code --install-extension magnobiet.browser-debugger-extension-pack
 
 ## License
 
-This package is licensed under the [MIT license](https://magno.mit-license.org/2019). Copyright © Magno Biét
+This package is licensed under the [MIT license](https://license.magnobiet.com/mit/2019). Copyright © Magno Biét
